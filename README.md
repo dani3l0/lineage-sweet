@@ -3,6 +3,18 @@
 Wow, I actually hate android
 
 
+# Screenshots
+
+<img width=240 src="screenshots/01.png">
+<img width=240 src="screenshots/02.png">
+<img width=240 src="screenshots/03.png">
+<img width=240 src="screenshots/04.png">
+<img width=240 src="screenshots/05.png">
+<img width=240 src="screenshots/06.png">
+<img width=240 src="screenshots/07.png">
+<img width=240 src="screenshots/08.png">
+
+
 ## Sources
 
 - [LineageOS](https://github.com/LineageOS/android/tree/lineage-21.0) (synced 15 Aug 2024)
