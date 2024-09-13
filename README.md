@@ -48,7 +48,7 @@ Wow, I actually hate android
 - Dialer: added auto call recording as well
 - hidden some annoying trash working only with Gapps: device controls, wallet, digital assistant, voice search etc.
 - dropped some useless LineageOS things (stats, circle battery, auto-hide clock etc.)
-- Fixed two device accounts showing up in Contacts app
+- Fixed two same device accounts showing up in Contacts app (builtin DEVICE account shows up when at least one contact is added, please note this before importing from .vcf file)
 
 ### Misc
 - Pixel system sounds
