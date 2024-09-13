@@ -5,14 +5,8 @@ Wow, I actually hate android
 
 # Screenshots
 
-<img width=240 src="screenshots/01.png">
-<img width=240 src="screenshots/02.png">
-<img width=240 src="screenshots/03.png">
-<img width=240 src="screenshots/04.png">
-<img width=240 src="screenshots/05.png">
-<img width=240 src="screenshots/06.png">
-<img width=240 src="screenshots/07.png">
-<img width=240 src="screenshots/08.png">
+<img width=240 src="screenshots/01.png"><img width=240 src="screenshots/02.png"><img width=240 src="screenshots/03.png"><img width=240 src="screenshots/04.png">
+<img width=240 src="screenshots/05.png"><img width=240 src="screenshots/06.png"><img width=240 src="screenshots/07.png"><img width=240 src="screenshots/08.png">
 
 
 ## Sources
