@@ -58,3 +58,6 @@ Wow, I actually hate android
 - other small touches here and there 
 
 **⚠️ Best suited for ungoogled & non-gaming experience, where battery is main concern and performance is not crucial. ⚠️**
+
+
+**Update**: battery backup on this phone is trash anyway
